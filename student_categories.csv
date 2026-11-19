@@ -1,0 +1,201 @@
+student_id,group,weekly_progress,start_avg,end_avg,change,category
+1,A,2.17,41.67,61.83,20.17,High progress (reward)
+2,D,0.83,45.67,53.5,7.83,Steady progress
+3,C,1.67,82.5,97.4,14.9,High progress (reward)
+4,C,-0.24,59.37,57.37,-2.0,No progress (needs support)
+5,B,-0.02,68.5,67.67,-0.83,No progress (needs support)
+6,C,-0.35,61.67,59.0,-2.67,No progress (needs support)
+7,D,0.7,62.23,67.4,5.17,Steady progress
+8,C,0.65,48.47,54.17,5.7,Steady progress
+9,C,0.36,54.67,58.6,3.93,Steady progress
+10,B,0.5,35.17,40.6,5.43,Steady progress
+11,C,-0.41,48.83,43.2,-5.63,No progress (needs support)
+12,C,-0.08,48.2,47.93,-0.27,No progress (needs support)
+13,D,0.17,58.83,59.63,0.8,No progress (needs support)
+14,D,1.81,79.3,94.37,15.07,High progress (reward)
+15,A,1.48,26.7,41.8,15.1,High progress (reward)
+16,C,1.26,56.47,65.73,9.27,High progress (reward)
+17,D,1.74,67.53,85.53,18.0,High progress (reward)
+18,A,-0.13,75.07,74.17,-0.9,No progress (needs support)
+19,C,-0.02,59.9,61.27,1.37,No progress (needs support)
+20,A,-0.1,46.4,45.6,-0.8,No progress (needs support)
+21,C,0.73,53.37,62.13,8.77,Steady progress
+22,D,0.14,50.93,52.07,1.13,No progress (needs support)
+23,A,-0.27,69.8,69.6,-0.2,No progress (needs support)
+24,B,1.56,46.53,63.07,16.53,High progress (reward)
+25,A,-0.57,66.57,60.17,-6.4,No progress (needs support)
+26,D,2.12,63.1,79.87,16.77,High progress (reward)
+27,B,-0.45,54.63,51.53,-3.1,No progress (needs support)
+28,D,1.41,31.43,44.83,13.4,High progress (reward)
+29,B,0.62,47.1,52.43,5.33,Steady progress
+30,C,1.03,67.6,76.67,9.07,High progress (reward)
+31,B,-0.01,61.8,61.63,-0.17,No progress (needs support)
+32,C,-0.57,71.97,67.43,-4.53,No progress (needs support)
+33,D,0.06,32.1,32.33,0.23,No progress (needs support)
+34,A,0.05,49.6,49.37,-0.23,No progress (needs support)
+35,D,-0.45,49.53,43.2,-6.33,No progress (needs support)
+36,A,1.31,82.47,93.7,11.23,High progress (reward)
+37,D,0.87,48.63,58.23,9.6,Steady progress
+38,C,1.01,60.47,69.1,8.63,High progress (reward)
+39,D,0.15,64.57,65.6,1.03,No progress (needs support)
+40,B,0.37,65.33,67.67,2.33,Steady progress
+41,D,1.23,56.37,67.37,11.0,High progress (reward)
+42,D,-0.02,34.37,33.0,-1.37,No progress (needs support)
+43,A,0.15,30.47,33.2,2.73,No progress (needs support)
+44,A,0.41,58.67,60.6,1.93,Steady progress
+45,C,-0.24,40.6,41.07,0.47,No progress (needs support)
+46,D,-0.15,52.57,50.7,-1.87,No progress (needs support)
+47,B,2.27,34.77,53.2,18.43,High progress (reward)
+48,A,0.15,66.5,68.83,2.33,No progress (needs support)
+49,C,0.19,42.13,44.67,2.53,No progress (needs support)
+50,A,-0.53,61.6,57.4,-4.2,No progress (needs support)
+51,D,0.36,43.77,46.83,3.07,Steady progress
+52,B,0.34,38.73,40.2,1.47,Steady progress
+53,C,1.1,84.4,93.83,9.43,High progress (reward)
+54,B,-0.48,57.47,52.77,-4.7,No progress (needs support)
+55,D,0.34,78.27,80.63,2.37,Steady progress
+56,A,-0.12,67.3,64.7,-2.6,No progress (needs support)
+57,D,0.03,47.87,46.13,-1.73,No progress (needs support)
+58,A,0.47,52.73,60.23,7.5,Steady progress
+59,B,-0.46,80.83,78.6,-2.23,No progress (needs support)
+60,A,-0.12,56.4,56.8,0.4,No progress (needs support)
+61,A,-0.01,53.5,51.27,-2.23,No progress (needs support)
+62,B,-0.21,42.2,37.77,-4.43,No progress (needs support)
+63,C,-0.45,61.33,58.37,-2.97,No progress (needs support)
+64,C,-0.41,67.63,63.57,-4.07,No progress (needs support)
+65,B,-0.03,60.83,63.33,2.5,No progress (needs support)
+66,C,0.11,68.73,69.9,1.17,No progress (needs support)
+67,D,0.35,53.77,56.17,2.4,Steady progress
+68,B,0.66,52.53,57.3,4.77,Steady progress
+69,D,0.04,61.83,64.27,2.43,No progress (needs support)
+70,D,0.75,65.23,71.0,5.77,Steady progress
+71,D,0.07,42.73,44.87,2.13,No progress (needs support)
+72,D,-0.04,56.43,56.1,-0.33,No progress (needs support)
+73,C,0.58,54.77,56.63,1.87,Steady progress
+74,B,-0.14,62.87,61.87,-1.0,No progress (needs support)
+75,C,1.22,56.3,68.37,12.07,High progress (reward)
+76,A,2.09,40.83,59.23,18.4,High progress (reward)
+77,B,-0.27,62.0,56.93,-5.07,No progress (needs support)
+78,B,-0.07,53.67,55.03,1.37,No progress (needs support)
+79,A,-0.13,46.33,42.8,-3.53,No progress (needs support)
+80,D,0.06,57.03,57.8,0.77,No progress (needs support)
+81,D,-0.11,34.47,32.67,-1.8,No progress (needs support)
+82,D,0.73,40.53,46.77,6.23,Steady progress
+83,D,0.5,69.17,74.07,4.9,Steady progress
+84,C,-0.52,56.67,52.17,-4.5,No progress (needs support)
+85,A,-0.42,32.3,28.97,-3.33,No progress (needs support)
+86,A,0.91,42.13,51.8,9.67,Steady progress
+87,D,1.76,51.8,68.6,16.8,High progress (reward)
+88,C,0.33,67.5,69.4,1.9,Steady progress
+89,D,-0.34,57.63,53.07,-4.57,No progress (needs support)
+90,C,0.01,59.93,62.57,2.63,No progress (needs support)
+91,C,2.24,50.77,71.87,21.1,High progress (reward)
+92,B,0.44,36.17,40.1,3.93,Steady progress
+93,C,1.06,66.2,77.43,11.23,High progress (reward)
+94,D,-0.17,46.53,44.47,-2.07,No progress (needs support)
+95,D,-0.13,32.33,32.1,-0.23,No progress (needs support)
+96,A,0.26,67.83,65.5,-2.33,Steady progress
+97,A,-0.58,72.87,67.3,-5.57,No progress (needs support)
+98,D,1.9,68.27,86.83,18.57,High progress (reward)
+99,D,-0.23,56.87,53.27,-3.6,No progress (needs support)
+100,B,1.97,51.3,71.33,20.03,High progress (reward)
+101,B,-0.53,47.3,43.57,-3.73,No progress (needs support)
+102,D,2.25,59.17,79.93,20.77,High progress (reward)
+103,A,-0.35,52.2,49.53,-2.67,No progress (needs support)
+104,D,1.06,46.83,55.17,8.33,High progress (reward)
+105,C,-0.55,55.7,48.6,-7.1,No progress (needs support)
+106,A,1.8,25.8,41.53,15.73,High progress (reward)
+107,C,1.31,67.53,80.73,13.2,High progress (reward)
+108,A,-0.24,31.73,29.87,-1.87,No progress (needs support)
+109,B,1.1,49.2,61.93,12.73,High progress (reward)
+110,A,-0.33,58.63,54.2,-4.43,No progress (needs support)
+111,C,-0.01,63.07,62.97,-0.1,No progress (needs support)
+112,C,1.5,55.37,68.67,13.3,High progress (reward)
+113,B,1.24,72.77,84.93,12.17,High progress (reward)
+114,D,1.78,67.73,80.9,13.17,High progress (reward)
+115,D,1.2,60.3,71.87,11.57,High progress (reward)
+116,A,1.57,59.83,73.13,13.3,High progress (reward)
+117,B,-0.22,45.93,44.0,-1.93,No progress (needs support)
+118,A,0.83,62.5,67.9,5.4,Steady progress
+119,A,0.17,47.23,47.77,0.53,No progress (needs support)
+120,D,-0.01,66.2,67.47,1.27,No progress (needs support)
+121,B,-0.47,57.47,52.93,-4.53,No progress (needs support)
+122,D,-1.09,55.93,44.2,-11.73,No progress (needs support)
+123,D,0.84,42.37,54.53,12.17,Steady progress
+124,A,0.75,33.77,38.13,4.37,Steady progress
+125,A,1.36,56.13,68.13,12.0,High progress (reward)
+126,C,-0.05,30.83,32.93,2.1,No progress (needs support)
+127,A,1.72,67.73,82.33,14.6,High progress (reward)
+128,B,0.51,44.73,48.97,4.23,Steady progress
+129,A,-0.36,46.17,43.57,-2.6,No progress (needs support)
+130,A,0.72,53.87,60.63,6.77,Steady progress
+131,B,0.5,28.07,34.73,6.67,Steady progress
+132,A,1.36,54.47,66.37,11.9,High progress (reward)
+133,D,0.99,16.8,23.53,6.73,Steady progress
+134,A,-0.32,40.5,38.2,-2.3,No progress (needs support)
+135,A,1.65,38.4,54.3,15.9,High progress (reward)
+136,B,1.81,67.73,82.87,15.13,High progress (reward)
+137,C,-0.6,52.6,46.37,-6.23,No progress (needs support)
+138,C,0.95,47.83,57.6,9.77,Steady progress
+139,D,0.24,48.37,53.63,5.27,Steady progress
+140,D,-0.7,73.9,68.23,-5.67,No progress (needs support)
+141,D,2.07,51.9,71.6,19.7,High progress (reward)
+142,B,0.4,46.1,46.63,0.53,Steady progress
+143,A,0.27,49.87,51.13,1.27,Steady progress
+144,C,0.58,29.13,34.57,5.43,Steady progress
+145,A,-0.19,51.53,49.37,-2.17,No progress (needs support)
+146,C,0.81,35.6,43.7,8.1,Steady progress
+147,D,0.22,58.3,57.37,-0.93,Steady progress
+148,B,2.14,57.77,77.27,19.5,High progress (reward)
+149,B,0.53,49.03,53.6,4.57,Steady progress
+150,C,-0.72,47.73,42.37,-5.37,No progress (needs support)
+151,B,-0.67,61.67,58.07,-3.6,No progress (needs support)
+152,A,0.51,78.33,83.17,4.83,Steady progress
+153,A,1.67,64.73,77.33,12.6,High progress (reward)
+154,B,1.48,51.43,65.33,13.9,High progress (reward)
+155,A,0.94,37.4,47.53,10.13,Steady progress
+156,A,-0.04,35.5,35.83,0.33,No progress (needs support)
+157,C,0.02,47.37,48.33,0.97,No progress (needs support)
+158,D,0.53,17.17,24.8,7.63,Steady progress
+159,C,-1.51,63.0,50.23,-12.77,No progress (needs support)
+160,A,0.15,66.03,66.87,0.83,No progress (needs support)
+161,A,0.22,56.97,54.7,-2.27,Steady progress
+162,B,-1.23,60.13,50.73,-9.4,No progress (needs support)
+163,B,0.84,76.27,83.2,6.93,Steady progress
+164,A,-0.56,60.53,55.37,-5.17,No progress (needs support)
+165,A,0.43,48.53,51.73,3.2,Steady progress
+166,A,0.11,60.57,61.33,0.77,No progress (needs support)
+167,D,0.83,53.33,61.2,7.87,Steady progress
+168,A,0.11,35.9,39.47,3.57,No progress (needs support)
+169,D,0.82,39.53,48.57,9.03,Steady progress
+170,D,0.71,52.3,57.63,5.33,Steady progress
+171,B,0.09,49.93,52.67,2.73,No progress (needs support)
+172,D,0.67,35.63,40.93,5.3,Steady progress
+173,A,0.35,50.8,51.1,0.3,Steady progress
+174,D,0.69,68.83,75.97,7.13,Steady progress
+175,A,1.77,55.2,70.43,15.23,High progress (reward)
+176,C,0.32,47.33,51.5,4.17,Steady progress
+177,B,1.54,31.67,43.93,12.27,High progress (reward)
+178,C,0.24,71.57,71.77,0.2,Steady progress
+179,A,-0.12,45.7,43.63,-2.07,No progress (needs support)
+180,B,0.49,78.07,83.07,5.0,Steady progress
+181,A,1.96,42.43,62.6,20.17,High progress (reward)
+182,B,1.02,51.77,61.57,9.8,High progress (reward)
+183,A,-0.1,68.67,68.53,-0.13,No progress (needs support)
+184,D,0.01,81.3,80.3,-1.0,No progress (needs support)
+185,B,0.51,48.77,54.03,5.27,Steady progress
+186,C,0.75,40.07,43.2,3.13,Steady progress
+187,C,1.42,56.27,67.83,11.57,High progress (reward)
+188,D,0.02,21.57,20.87,-0.7,No progress (needs support)
+189,A,0.75,32.3,39.33,7.03,Steady progress
+190,B,0.26,49.87,50.43,0.57,Steady progress
+191,B,0.28,51.47,56.57,5.1,Steady progress
+192,A,0.22,53.43,54.23,0.8,Steady progress
+193,C,-0.46,76.33,70.7,-5.63,No progress (needs support)
+194,B,0.86,68.93,76.4,7.47,Steady progress
+195,D,0.23,55.73,58.43,2.7,Steady progress
+196,B,1.62,59.67,75.87,16.2,High progress (reward)
+197,A,-0.24,63.47,63.53,0.07,No progress (needs support)
+198,B,0.02,54.47,57.97,3.5,No progress (needs support)
+199,B,-0.79,43.53,35.43,-8.1,No progress (needs support)
+200,C,-0.55,64.4,58.97,-5.43,No progress (needs support)
